@@ -1,0 +1,91 @@
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("./assets/fonts/SourceSansPro-Bold.woff") format("woff");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("./assets/fonts/SourceSansPro-SemiBold.woff") format("woff");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("./assets/fonts/SourceSansPro-Regular.woff") format("woff");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("./assets/fonts/SourceSansPro-Light.woff") format("woff");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("./assets/fonts/SourceSansPro-ExtraLight.woff") format("woff");
+  font-weight: 200;
+}
+
+* {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.header {
+  height: 41px;
+  background-color: #4A9AAD;
+}
+
+.container {
+  max-width: 1635px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header-container {
+  display: flex;
+  height: 100%;
+}
+
+.hero-section {
+  width: 1635px;
+  height: 242px;
+  left: 0px;
+  top: 0px;
+  background-image: url(./assets/img/bg-hero.webp);
+  background-position-x: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hero {
+  height: 63px;
+  width: 1420px;
+  left: 108px;
+  top: 90px;
+  position: relative;
+  font-weight: 600;
+  font-size: 50px;
+  align-items: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  line-height: 63px;
+}
