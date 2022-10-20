@@ -60,12 +60,12 @@ a {
   text-decoration: none;
 }
 
-.header-container {
+.header__container {
   display: flex;
   height: 100%;
 }
 
-.hero-section {
+.hero__section {
   width: 1635px;
   height: 242px;
   left: 0px;
@@ -76,7 +76,7 @@ a {
   background-repeat: no-repeat;
 }
 
-.hero {
+.header__heading {
   height: 63px;
   width: 1420px;
   left: 108px;
