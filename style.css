@@ -16,18 +16,6 @@
   font-weight: 400;
 }
 
-@font-face {
-  font-family: "Source Sans Pro";
-  src: url("./assets/fonts/SourceSansPro-Light.woff") format("woff");
-  font-weight: 300;
-}
-
-@font-face {
-  font-family: "Source Sans Pro";
-  src: url("./assets/fonts/SourceSansPro-ExtraLight.woff") format("woff");
-  font-weight: 200;
-}
-
 * {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   box-sizing: border-box;
