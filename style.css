@@ -44,10 +44,6 @@ body {
   padding-top: 80px;
 }
 
-a {
-  text-decoration: none;
-}
-
 a:hover {
   color: #9BDEFF;
   transition: 0.3s;
