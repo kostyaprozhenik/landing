@@ -89,8 +89,6 @@ img {
 .menu__link {
   color: white;
   font-size: 18px;
-  font-family: 'Source Sans Pro' sans-serif;
-  font-style: normal;
   font-weight: normal;
 }
 
@@ -155,8 +153,6 @@ img {
 }
 
 .text__program__title {
-  font-family: 'Source Sans Pro' sans-serif;
-  font-style: normal;
   font-weight: 600;
   font-size: 28px;
   line-height: 35px;
@@ -164,8 +160,6 @@ img {
 }
 
 .text__program__description {
-  font-family: 'Source Sans Pro' sans-serif;
-  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 20px;
@@ -197,8 +191,6 @@ img {
 }
 
 .table th {
-	font-family: 'Source Sans Pro' sans-serif;
-  font-style: normal;
   font-weight: 700;
   font-size: 14px;
   line-height: 20px;
@@ -212,8 +204,6 @@ img {
 }
 
 .table td {
-  font-family: 'Source Sans Pro' sans-serif;
-  font-style: normal;
   font-weight: 400; 
   font-size: 14px;
   line-height: 20px;
@@ -232,8 +222,6 @@ img {
 }
 
 .text__target__title {
-  font-family: 'Source Sans Pro' sans-serif;
-  font-style: normal;
   font-weight: 600;
   font-size: 28px;
   line-height: 35px;
@@ -241,8 +229,6 @@ img {
 }
 
 .text__target__description {
-  font-family: 'Source Sans Pro' sans-serif;
-  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 20px;
@@ -251,8 +237,6 @@ img {
 }
 
 .text__target__link {
-  font-family: 'Source Sans Pro' sans-serif;
-  font-style: normal;
   font-weight: 700;
   font-size: 14px;
   line-height: 20px;
@@ -266,8 +250,6 @@ img {
 }
 
 .text__necessary__title {
-  font-family: 'Source Sans Pro' sans-serif;
-  font-style: normal;
   font-weight: 600;
   font-size: 28px;
   line-height: 35px;
@@ -275,8 +257,6 @@ img {
 }
 
 .text__necessary__description {
-  font-family: 'Source Sans Pro' sans-serif;
-  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 20px;
@@ -285,8 +265,6 @@ img {
 }
 
 .contact__text {
-  font-family: 'Source Sans Pro' sans-serif;
-  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 20px;
