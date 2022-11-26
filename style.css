@@ -40,7 +40,7 @@ body {
 
 .container {
   max-width: 1420px;
-  padding-left: 108px;
+  padding-left: 105px;
   padding-top: 80px;
 }
 
@@ -262,7 +262,7 @@ img {
   width: 700px;
   height: 482px;
   padding-top: 45px;
-  margin-right: 12px
+  margin-right: 16px
 }
 
 .contact__img {
@@ -285,7 +285,6 @@ img {
 }
 
 .point__section {
-  display: flex;
   height: 800px;
 }
 
@@ -309,8 +308,6 @@ img {
 }
 
 .point__text__title {
-  font-family: 'Source Sans Pro' sans-serif;
-  font-style: normal;
   font-weight: 600;
   font-size: 28px;
   line-height: 35px;
@@ -318,8 +315,6 @@ img {
 }
 
 .point__list {
-  font-family: 'Source Sans Pro' sans-serif;
-  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 20px;
